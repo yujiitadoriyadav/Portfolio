@@ -12,9 +12,10 @@ You can view the live project here: **[Dev-pratap.vercel.app]([(https://portfoli
 
 ## 📸 Screenshot
 
-![Portfolio Screenshot](https://github.com/user-attachments/assets/ec3ce2e1-0f1e-4ee8-8410-3cc4ae8b8813)
+![Portfolio Screenshot]
 
----
+---<img width="1895" height="1077" alt="image" src="https://github.com/user-attachments/assets/cd0ffeba-0adc-4447-b3d9-e51fb5500024" />
+
 
 ## ✨ Features
 
