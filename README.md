@@ -6,13 +6,13 @@ A modern and responsive personal portfolio website to showcase my **projects, sk
 
 ### 🚀 Live Demo
 
-You can view the live project here: **[Dev-pratap.vercel.app]([(https://portfolio-five-omega-yjifkf0btc.vercel.app/)])**
+You can view the live project here: **[[Dev-pratap.vercel.app](https://portfolio-five-omega-yjifkf0btc.vercel.app/)]**
 
 ---
 
 ## 📸 Screenshot
 
-![Portfolio Screenshot]
+[Portfolio Screenshot]
 
 ---<img width="1895" height="1077" alt="image" src="https://github.com/user-attachments/assets/cd0ffeba-0adc-4447-b3d9-e51fb5500024" />
 
