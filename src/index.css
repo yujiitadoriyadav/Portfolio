@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html {
+  scroll-behavior: smooth;
+}
+body {
+
+  font-family: "Funnel Display", sans-serif;
+
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
