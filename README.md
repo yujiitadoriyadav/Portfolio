@@ -6,7 +6,7 @@ A modern and responsive personal portfolio website to showcase my **projects, sk
 
 ### 🚀 Live Demo
 
-You can view the live project here: **[tushar-patel.vercel.app](https://tushar-patel.vercel.app/)**
+You can view the live project here: **[Dev-pratap.vercel.app]([(https://portfolio-five-omega-yjifkf0btc.vercel.app/)])**
 
 ---
 
